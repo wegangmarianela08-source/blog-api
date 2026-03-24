@@ -163,5 +163,7 @@ curl "http://localhost:3000/api/articles/search?query=javascript"
 
 ## 👤 Auteur
 
-Étudiant — L2 Informatique, Université de Yaoundé I  
+Étudiant:kamdem wegang marianela 
+matricule:24G2126
+— L2 Informatique, Université de Yaoundé I  
 UE : INF222 — EC1 Développement Backend
